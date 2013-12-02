@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Practice Problems II
 
 These practice problems are meant to be downloaded, written, and run
@@ -31,3 +32,7 @@ grasp of the techniques needed to solve these problems.
 
 **I've included solutions**, but you shouldn't look at those until you
 finish a problem (or get totally stuck).
+=======
+academyprep
+===========
+>>>>>>> fd0c182217430fe24b2e39836835a94c35bcfbd7
